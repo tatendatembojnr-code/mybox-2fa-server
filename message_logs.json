@@ -1,0 +1,433 @@
+{
+  "sms": [
+    {
+      "id": "log_1788291474475_pxqd",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 9:37:54 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788291377848_axe3",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 9:36:17 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788289715345_e7ep",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 9:08:35 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788288659842_th09",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 8:50:59 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788288429778_a8oc",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 8:47:09 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788288411961_701l",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 8:46:51 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788283588058_qzsh",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 7:26:28 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788282746870_r2kz",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 7:12:26 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788274334464_agqt",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 4:52:14 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788274221501_00r3",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 4:50:21 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788274073636_le5x",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 4:47:53 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788273960757_6aje",
+      "deviceNo": "PASSKEY_FIDO2",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "🔑 Passkey WebAuthn Cryptographic Assertion Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (WebAuthn / Passkey FIDO2)",
+      "createTime": "9/1/2026, 4:46:00 PM",
+      "remark": "Passkey Verified"
+    },
+    {
+      "id": "log_1788273314332_rpv9",
+      "deviceNo": "MOBILE_PASSKEY",
+      "mobile": "admin",
+      "email": "admin",
+      "context": "📱 Phone Camera WebAuthn Passkey Verified (Fingerprint/TouchID/FaceID)",
+      "status": 0,
+      "result": "Success (Mobile Passkey WebAuthn)",
+      "createTime": "9/1/2026, 4:35:14 PM",
+      "remark": "Phone Biometric Verified"
+    },
+    {
+      "id": "log_init_sms_1",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "+263718910821",
+      "context": "🔐 PML MyBox Security: Your verification code is 582194. Valid for 5 minutes. Never share this code. 🚀",
+      "status": 0,
+      "result": "Success (Africa's Talking - USD 0.0500)",
+      "createTime": "2026-09-01 11:11:46",
+      "remark": "Live Production 2FA Code"
+    },
+    {
+      "id": "log_init_sms_2",
+      "deviceNo": "OUTBOUND_TEST",
+      "mobile": "+263773321681",
+      "context": "PML MyBox System Test: Live Production Africa's Talking Gateway active.",
+      "status": 0,
+      "result": "Success (Africa's Talking - NAD 0.8060)",
+      "createTime": "2026-09-01 11:11:40",
+      "remark": "Production Gateway Verification"
+    }
+  ],
+  "email": [
+    {
+      "id": "log_1788433601294_chu4",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 453120 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/3/2026, 1:06:41 PM",
+      "remark": "2FA OTP Code: 453120"
+    },
+    {
+      "id": "log_1788425649055_1shs",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 998946 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/3/2026, 10:54:09 AM",
+      "remark": "2FA OTP Code: 998946"
+    },
+    {
+      "id": "log_1788358815455_2hx9",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 812745 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 4:20:15 PM",
+      "remark": "2FA OTP Code: 812745"
+    },
+    {
+      "id": "log_1788353255005_zghr",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 632498 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 2:47:35 PM",
+      "remark": "2FA OTP Code: 632498"
+    },
+    {
+      "id": "log_1788350296947_c3c3",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 950483 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 1:58:16 PM",
+      "remark": "2FA OTP Code: 950483"
+    },
+    {
+      "id": "log_1788345003460_p81e",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 618389 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 12:30:03 PM",
+      "remark": "2FA OTP Code: 618389"
+    },
+    {
+      "id": "log_1788342900484_9vpi",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembo.jnr@gmail.com",
+      "email": "tatendatembo.jnr@gmail.com",
+      "context": "🔒 508290 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:55:00 AM",
+      "remark": "2FA OTP Code: 508290"
+    },
+    {
+      "id": "log_1788342900464_gv3c",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembo.jnr@gmail.com",
+      "email": "tatendatembo.jnr@gmail.com",
+      "context": "🔒 942228 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:55:00 AM",
+      "remark": "2FA OTP Code: 942228"
+    },
+    {
+      "id": "log_1788342277145_00v9",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendamasangwi2002@gmail.com",
+      "email": "tatendamasangwi2002@gmail.com",
+      "context": "🔒 124498 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:44:37 AM",
+      "remark": "2FA OTP Code: 124498"
+    },
+    {
+      "id": "log_1788342241385_4e75",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembo.jnr@gmail.com",
+      "email": "tatendatembo.jnr@gmail.com",
+      "context": "🔒 886424 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:44:01 AM",
+      "remark": "2FA OTP Code: 886424"
+    },
+    {
+      "id": "log_1788342241331_geac",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembo.jnr@gmail.com",
+      "email": "tatendatembo.jnr@gmail.com",
+      "context": "🔒 309978 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:44:01 AM",
+      "remark": "2FA OTP Code: 309978"
+    },
+    {
+      "id": "log_1788340759764_92lz",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 262498 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 11:19:19 AM",
+      "remark": "2FA OTP Code: 262498"
+    },
+    {
+      "id": "log_1788338804928_88x2",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 166165 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 10:46:44 AM",
+      "remark": "2FA OTP Code: 166165"
+    },
+    {
+      "id": "log_1788337582509_nlxn",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 393259 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 10:26:22 AM",
+      "remark": "2FA OTP Code: 393259"
+    },
+    {
+      "id": "log_1788336960447_jteq",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 255203 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 10:16:00 AM",
+      "remark": "2FA OTP Code: 255203"
+    },
+    {
+      "id": "log_1788336499725_2ekg",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 668812 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 10:08:19 AM",
+      "remark": "2FA OTP Code: 668812"
+    },
+    {
+      "id": "log_1788336420206_02qu",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tembotatendajnr@gmail.com",
+      "email": "tembotatendajnr@gmail.com",
+      "context": "🔒 159166 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 10:07:00 AM",
+      "remark": "2FA OTP Code: 159166"
+    },
+    {
+      "id": "log_1788335609503_6xa3",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tembotatendajnr@gmail.com",
+      "email": "tembotatendajnr@gmail.com",
+      "context": "🔒 135813 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 9:53:29 AM",
+      "remark": "2FA OTP Code: 135813"
+    },
+    {
+      "id": "log_1788335578224_pb1p",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tembotatendajnr@gmail.com",
+      "email": "tembotatendajnr@gmail.com",
+      "context": "🔒 136523 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 9:52:58 AM",
+      "remark": "2FA OTP Code: 136523"
+    },
+    {
+      "id": "log_1788334981419_g5i4",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tembotatendajnr@gmail.com",
+      "email": "tembotatendajnr@gmail.com",
+      "context": "🔒 486202 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 9:43:01 AM",
+      "remark": "2FA OTP Code: 486202"
+    },
+    {
+      "id": "log_1788329259296_8eoo",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 758622 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/2/2026, 8:07:39 AM",
+      "remark": "2FA OTP Code: 758622"
+    },
+    {
+      "id": "log_1788288007300_ozb4",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "tatendatembojnr@gmail.com",
+      "email": "tatendatembojnr@gmail.com",
+      "context": "🔒 248329 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "9/1/2026, 8:40:07 PM",
+      "remark": "2FA OTP Code: 248329"
+    },
+    {
+      "id": "log_init_email_1",
+      "deviceNo": "AUTH_2FA",
+      "email": "mybox@pmilogistics.com.na",
+      "context": "🔒 941028 is your PML MyBox Security Code",
+      "status": 0,
+      "result": "Success (SMTP Mailer)",
+      "createTime": "2026-09-01 10:45:00",
+      "remark": "Live SMTP Verification"
+    }
+  ],
+  "whatsapp": [
+    {
+      "id": "log_init_wa_1",
+      "deviceNo": "AUTH_2FA",
+      "mobile": "+263718910821",
+      "context": "🔐 PML MyBox Security: Your verification code is 382109.",
+      "status": 0,
+      "result": "Success (Africa's Talking WhatsApp)",
+      "createTime": "2026-09-01 11:22:00",
+      "remark": "WhatsApp 2FA Code"
+    }
+  ]
+}
